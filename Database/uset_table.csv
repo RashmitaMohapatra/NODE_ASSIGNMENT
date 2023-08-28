@@ -1,0 +1,8 @@
+id,name,role,email,password,candelete
+1,"Aditya prakash","Super Admin",aditya@gmail.com,123456,1
+7,jyotsna,user,jyotsna@gmail.com,123456,NULL
+11,rohit,admin,rohit@gmail.com,909088,1
+13,piyush,user,piyu@gmail.com,909090,NULL
+17,Akash,admin,akash@gmail.com,123456,1
+18,polo,admin,polo@gmail.com,123456,1
+19,iti,admin,iti@gmail.com,123456,1
